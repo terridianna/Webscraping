@@ -1,12 +1,8 @@
-Lesson 1
-+ Introduction to using Jupyter Notebooks
-+ Webscraping
-+ urllib
-+ BeautifulSoup
+# Agenda
+1. Asking Good Questions
+2. Jupyter Notebooks
+3. Web Scraping
+4. Assignment
 
+# Lesson Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terridianna/Webscraping/master?filepath=Lesson1%2FLesson1.ipynb)
-
-Assignment
-+
-
-Download your assignment as an html file and email it.
